@@ -14,26 +14,11 @@ Our overview covers the initial questions asked:
 What kind of diversity of people were present?
 How does the Demographics of people in 1775 compare to the people of 2024?
 How many people were employed and what were their occupations?
+
 Data
 ____________________________________________________________________________
 
-The data used were provided data from the Archaeology Team on 1775 information and a more general census of aggregate over data of charlestown 
-
-Census Charlestown 1775:
-Here are the following data columns we used:
-Household: Household name titles
-Age
-Sex
-Race
-Occupation
-First Name
-
-Census Charlestown 2018 - 2022:
-Here are the following data tabs we used: 
-boston-neighborhood-data: used specifically the Charlestown field with the breakdown of races
-Population_by_Age_5YR_ACS_2018-2022
-Sex_5YR_ACS_2018-2022
-Race_Ethnicity_5YR_ACS_2018-2022
+The data used were provided data from the Archaeology Team on 1775 information and a more general census of aggregate over data of Charlestown.
 
 Visualizations
 ____________________________________________________________________________
