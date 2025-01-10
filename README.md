@@ -1,5 +1,4 @@
 # 1775 Charlestown Demographic Census Overview - DS4200 Project
-____________________________________________________________________________
  
 This project offers a detailed overview of the 1775 census demographics of Charlestown, exploring the neighborhood's vibrant community prior to the Battle of Bunker Hill. By examining data on family structures, individual residents, and enslaved people, the data aim to uncover significant historical sites that tell unique stories. This analysis is intended to support further in-depth study and assist archaeological teams.
 
