@@ -1,6 +1,4 @@
-# DS4200Project
-
-1775 Census Demographics Overview
+# 1775 Charlestown Demographic Census Overview - DS4200 Project
 ____________________________________________________________________________
  
 This project offers a detailed overview of the 1775 census demographics of Charlestown, exploring the neighborhood's vibrant community prior to the Battle of Bunker Hill. By examining data on family structures, individual residents, and enslaved people, the data aim to uncover significant historical sites that tell unique stories. This analysis is intended to support further in-depth study and assist archaeological teams.
@@ -8,19 +6,17 @@ This project offers a detailed overview of the 1775 census demographics of Charl
 Additionally, this project seeks to compare the socio-economic dynamics of Charlestown in 1775 with its present-day conditions. Through this comparative approach, we enhance our understanding of the area's historical and cultural evolution, providing valuable insights into how Charlestown has transformed over the centuries.
 
 The overview is presented in the form of visualizations that describe the data of Charlestown in 1775 to Charlestown today.
-
 Our overview covers the initial questions asked:
-
 What kind of diversity of people were present?
 How does the Demographics of people in 1775 compare to the people of 2024?
 How many people were employed and what were their occupations?
 
-Data
+# Data
 ____________________________________________________________________________
 
 The data used were provided data from the Archaeology Team on 1775 information and a more general census of aggregate over data of Charlestown.
 
-Visualizations
+# Visualizations
 ____________________________________________________________________________
 
 Static Figures: Reference Final Data Report 
