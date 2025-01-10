@@ -12,14 +12,9 @@ How does the Demographics of people in 1775 compare to the people of 2024?
 How many people were employed and what were their occupations?
 
 # Data
-____________________________________________________________________________
+The data used was a reconstructed census dataset acquired from the City of Boston Archaeology Team on 1775 information and a more general census of aggregated over data of Charlestown.
 
-The data used were provided data from the Archaeology Team on 1775 information and a more general census of aggregate over data of Charlestown.
-
-# Visualizations
-____________________________________________________________________________
-
-# Static Figures
+# Visualizations - Static Figures
 OccupationDistribution1775.png - Shows the top 10 occupations by count in 1775
 OccupationPresentDay.png - Employment sector by count from 2018 - 2022
 HouseholdDistribution1775 - Distribution of Household size in 1775
@@ -28,7 +23,7 @@ RacialDistributionComparisonStatic.png - Comparison of Population Distribution b
 GenderDistributionComparisonStatic.png - Comparison of Population Distribution by Gender Across Time Periods
 
 
-# Interactive Figures: 
+# Visualizations - Interactive Figures: 
 OccAgeInteractive.html: Overview of age grouping and the corresponding occupations in 1775
 AgeSexRacialDistributionComparison.html: Comprehensive breakdown of age, sex, and race in 1775 and 2022
 
