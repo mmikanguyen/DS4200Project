@@ -19,16 +19,17 @@ The data used were provided data from the Archaeology Team on 1775 information a
 # Visualizations
 ____________________________________________________________________________
 
-Static Figures: Reference Final Data Report 
-Figure 1: Shows the top 10 occupations by count in 1775
-Figure 2: Employment sector by count from 2018 - 2022
-Figure 4: Distribution of Household size in 1775
-Figure 5: Distribution of Household size from 2018 - 2022
-Figure 6: Breakdown of household titles by percentage in 1775
+# Static Figures
+OccupationDistribution1775.png - Shows the top 10 occupations by count in 1775
+OccupationPresentDay.png - Employment sector by count from 2018 - 2022
+HouseholdDistribution1775 - Distribution of Household size in 1775
+HouseholdDistributionPresentDay - Distribution of Household size from 2018 - 2022
+RacialDistributionComparisonStatic.png - Comparison of Population Distribution by Race Across Time Periods
+GenderDistributionComparisonStatic.png - Comparison of Population Distribution by Gender Across Time Periods
 
 
-Interactive Figures: Reference Final Data Report
-Figure 3: Overview of age grouping and the corresponding occupations in 1775
-Figure 9: Comparative breakdown of age, sex, and race in 1775 and 2022
+# Interactive Figures: 
+OccAgeInteractive.html: Overview of age grouping and the corresponding occupations in 1775
+AgeSexRacialDistributionComparison.html: Comprehensive breakdown of age, sex, and race in 1775 and 2022
 
 
